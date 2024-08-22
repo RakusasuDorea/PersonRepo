@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Spring Boot Demo,com.example.spring_boot_demo.model,Person,0,9,0,0,0,4,0,1,0,1
+Spring Boot Demo,com.example.spring_boot_demo.controller,PersonController,0,27,0,0,0,8,0,5,0,5
+Spring Boot Demo,com.example.spring_boot_demo.repository,CustomPersonRepositoryImpl,0,20,0,0,0,5,0,2,0,2
+Spring Boot Demo,com.example.spring_boot_demo.service,PersonService,0,47,0,2,0,10,0,7,0,6
+Spring Boot Demo,com.example.spring_boot_demo,SpringBootDemoApplication,5,3,0,0,2,1,1,1,1,1

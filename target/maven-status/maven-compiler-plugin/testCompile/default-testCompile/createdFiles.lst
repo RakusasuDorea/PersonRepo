@@ -1,0 +1,4 @@
+com\example\spring_boot_demo\SpringBootDemoApplicationTests.class
+com\example\spring_boot_demo\controller\PersonControllerTest.class
+com\example\spring_boot_demo\repository\PersonRepositoryTest.class
+com\example\spring_boot_demo\service\PersonServiceTest.class
